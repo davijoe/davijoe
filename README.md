@@ -8,7 +8,7 @@
 
 - 📫 Reach me on **dan@viktorjorgensen.com**
 <br>
-<h4 align="left">Socials:</h4>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/danviktorjorgensen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/danviktorjorgensen/" height="30" width="40" /></a>
 </a> <a href="https://discord.gg/discordapp.com/users/Davijoe#6583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/Davijoe#6583" height="30" width="40" /></a>
