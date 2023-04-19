@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dan</h1>
-<h3 align="center">An aspiring CS student from Copenhagen</h3>
+<h3 align="center">Aspiring CS student from Copenhagen</h3>
 <br>
 
 - 🔭 I’m currently working on **Velliv.dk**
