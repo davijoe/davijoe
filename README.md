@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there. I'm Dan</h1>
----
 
+---
 
 👨‍🏭 I’m currently working on Velliv.dk<br>
 📚 And studying an AP in Computer Science<br>
